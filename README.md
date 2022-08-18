@@ -1,4 +1,8 @@
 ### Hi there 👋
+- 🔭 I’m currently working on ByteDance as an Infra Developer
+- 🌱 I’m currently learning School of Computer Science, Zhejiang University
+
+[![ChristeZeng's github stats](https://github-readme-stats.vercel.app/api?username=ChristeZeng "![ChristeZeng's github stats")](https://github.com/ChristeZeng/github-readme-stats)
 
 <!--
 **ChristeZeng/ChristeZeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
