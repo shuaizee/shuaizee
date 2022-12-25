@@ -1,5 +1,4 @@
 ### Hi there 👋
-- 🔭 I’m currently working on ByteDance as an Infra Developer
 - 🌱 I’m currently learning on School of Computer Science, Zhejiang University
 
 [![ChristeZeng's github stats](https://github-readme-stats.vercel.app/api?username=ChristeZeng "![ChristeZeng's github stats")](https://github.com/ChristeZeng/github-readme-stats)
