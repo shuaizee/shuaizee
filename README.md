@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning on School of Computer Science, Zhejiang University
+- 🌱 I’m currently learning at College of Computer Science and Technology, Zhejiang University
 
 [![ChristeZeng's github stats](https://github-readme-stats.vercel.app/api?username=ChristeZeng "![ChristeZeng's github stats")](https://github.com/ChristeZeng/github-readme-stats)
 
