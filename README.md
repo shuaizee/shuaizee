@@ -17,8 +17,8 @@
 <a href="https://github.com/ChristeZeng">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChristeZeng&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8" alt="ChristeZeng's GitHub Stats" /></a>
 
-![nothing](https://visitor-badge.laobi.icu/badge?page_id=ChristeZeng)
-
+<!-- ![nothing](https://visitor-badge.laobi.icu/badge?page_id=ChristeZeng)
+ -->
 <!-- [![ChristeZeng's github stats](https://github-readme-stats.vercel.app/api?username=ChristeZeng "![ChristeZeng's github stats")](https://github.com/ChristeZeng/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristeZeng&layout=compact)](https://github.com/ChristeZeng/github-readme-stats) -->
