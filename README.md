@@ -1,8 +1,9 @@
 ### Hi there 👋
 - 🌱 I’m Shuai Zeng
   - An undergraduate student at College of Computer Science and Technology, Zhejiang University
+  - Incoming M.S.E. in Computer Engineering (Software Engineering & Systems) Student at The University of Texas at Austin (UT Austin)
   - Member of Honors Program(Computer Science, Turing Class), Chu Kochen Honors College
-  - Infrastructure Develop Summer Intern at ByteDance
+  - Ex-SDE Intern at ByteDance, focusing on Recommender Systems Arch
 
 ## Skill & Interest
 - Languages：C/C++, Python, Java, JavaScript, HTML/CSS, MySQL
