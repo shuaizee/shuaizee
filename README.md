@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🌱 I’m Shuai Zeng
-  - B.S.E. in Computer Science (Honors Degree), Zhejiang University
   - M.S.E. in Computer Engineering (Software Engineering & Systems), The University of Texas at Austin
+  - B.S.E. in Computer Science (Honors Degree), Zhejiang University
   - Ex-SDE Intern at ByteDance, focusing on Recommender Systems Arch
 
 ## Skill & Interest
