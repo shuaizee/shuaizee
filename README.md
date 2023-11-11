@@ -11,13 +11,7 @@
 
 ## Stats
 
-<a href="https://github.com/ChristeZeng/ChristeZeng">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristeZeng&langs_count=10&layout=compact" alt="ChristeZeng's GitHub Stats" /></a>
-
-<!-- <a href="https://github.com/ChristeZeng">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChristeZeng&show_icons=true&line_height=27&count_private=true&title_color=6aa6f8" alt="ChristeZeng's GitHub Stats" /></a>
--->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristeZeng&hide=javascript,html)](https://github.com/ChristeZeng/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristeZeng&hide=VHDL,Verilog,Tex&layout=compact)](https://github.com/ChristeZeng/github-readme-stats)
 
 
 <!--
