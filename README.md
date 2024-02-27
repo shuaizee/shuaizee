@@ -2,7 +2,7 @@
 - 🌱 I’m Shuai Zeng
   - M.S.E. in Computer Engineering (Software Engineering & Systems), The University of Texas at Austin
   - B.S.E. (Honors) in Computer Science, Zhejiang University
-  - Ex-SDE Intern at ByteDance/TikTok, focusing on Recommender Systems Arch
+  - Ex-SDE Intern at ByteDance
 
 ## Skill & Interest
 - Languages：C/C++, Python, Java, JavaScript, HTML/CSS, MySQL
