@@ -2,13 +2,13 @@
 - 🌱 I’m Shuai Zeng
   - M.S.E. in Software Engineering & Systems, The University of Texas at Austin
   - B.S.E. (Honors) in Computer Science, Zhejiang University
-  - Incoming SDE intern at Amazon Web Service
-  - Ex-SDE Intern at ByteDance
+  - Ex-SDE intern at Amazon Web Services
+  - Ex-SDE Intern at ByteDance/TikTok
 
 ## Skill & Interest
-- Languages：C/C++, Java, Python, JavaScript, Go, Ocaml 
-- Frameworks & Tools: K8s, Kafka, Thrift, Redis, PyTorch, MySQL, MongoDB, Git, GDB
-- New hand in Machine Learning & Deep Learning
+- Languages: C/C++, Python, Java, JavaScript/TypeScript, Golang
+- Frameworks & Tools: Spring Boot, Django, React, Jenkins, Tensorflow, Thrift, Airflow, Shell, Git
+- Database & Middlewares: MySQL, MongoDB, PostgreSQL, Neo4j, Redis, Kafka, Docker, Kubernetes, AWS
 
 ## Stats
 
