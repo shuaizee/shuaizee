@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🌱 I’m Shuai Zeng
-  - M.S.E. in Software Engineering & Systems, The University of Texas at Austin
-  - B.S.E. (Honors) in Computer Science, Zhejiang University
+  - M.Sci. in Software Engineering & Systems, The University of Texas at Austin
+  - B.Eng. in Computer Science, Zhejiang University
   - Ex-SDE intern at Amazon Web Services
   - Ex-SDE Intern at ByteDance/TikTok
 
@@ -10,10 +10,11 @@
 - Frameworks & Tools: Spring Boot, Django, React, Jenkins, Tensorflow, Thrift, Airflow, Shell, Git
 - Database & Middlewares: MySQL, MongoDB, PostgreSQL, Neo4j, Redis, Kafka, Docker, Kubernetes, AWS
 
+<!--
 ## Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristeZeng&hide=VHDL,Verilog,Tex&layout=compact)](https://github.com/ChristeZeng/github-readme-stats)
-
+-->
 
 <!--
 **ChristeZeng/ChristeZeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
