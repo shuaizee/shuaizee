@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🌱 I’m Shuai Zeng
-  - M.Sci. in Software Engineering & Systems, The University of Texas at Austin
-  - B.Eng. in Computer Science, Zhejiang University
+  - M.S. in Software Engineering & Systems, The University of Texas at Austin
+  - B.E. in Computer Science, Zhejiang University
   - Ex-SDE intern at Amazon Web Services
   - Ex-SDE Intern at ByteDance/TikTok
 
