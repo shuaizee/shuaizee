@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🌱 I’m Shuai Zeng
-  - M.S. in Software Engineering & Systems, The University of Texas at Austin
-  - B.E. in Computer Science, Zhejiang University
+  - Backend and Infrastructure Engineer in NYC🏙️
+  - UT Austin, ZJU Alumni
 
 ## Skill & Interest
 - Languages: C/C++, Python, Java, JavaScript/TypeScript, Go
